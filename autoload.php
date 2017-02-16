@@ -1,5 +1,4 @@
 <?php
-
 function classLoader($class)
 {
     $path = str_replace('\\', DIRECTORY_SEPARATOR, $class);

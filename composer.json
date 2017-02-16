@@ -6,8 +6,7 @@
   "autoload" : {
     "psr-4" : {
       "think\\cos\\" : "src/"
-    },
-    "files" : [ "/include.php" ]
+    }
   },
   "authors" : [ {
     "name" : "slmwp",
