@@ -1,0 +1,17 @@
+{
+  "name" : "qcloudcos/sdk_php",
+  "description" : "COS For ThinkPHP5",
+  "version" : "4.2.2",
+  "license" : "Apache-2.0",
+  "autoload" : {
+    "psr-4" : {
+      "think\\cos\\" : "src/"
+    },
+    "files" : [ "/include.php" ]
+  },
+  "authors" : [ {
+    "name" : "slmwp",
+    "email" : "admin@slmwp.com",
+    "homepage": "http://www.slmwp.com"
+  } ]
+}
